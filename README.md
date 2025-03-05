@@ -1,1 +1,1 @@
-performing the operations of git.
+performing the operations of git
